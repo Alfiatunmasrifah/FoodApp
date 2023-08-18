@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4442BD962A8CAED500983C89 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4442BD952A8CAED400983C89 /* Poppins-Medium.ttf */; };
+		4442BD972A8CAED500983C89 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4442BD952A8CAED400983C89 /* Poppins-Medium.ttf */; };
+		4442BD982A8CAED500983C89 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4442BD952A8CAED400983C89 /* Poppins-Medium.ttf */; };
+		44863A7E2A8F27690002A4EA /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44863A7D2A8F27690002A4EA /* DetailView.swift */; };
+		44863A7F2A8F27690002A4EA /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44863A7D2A8F27690002A4EA /* DetailView.swift */; };
+		44863A802A8F27690002A4EA /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44863A7D2A8F27690002A4EA /* DetailView.swift */; };
 		44B30FC92A8B1FCD004DB587 /* FoodAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FC82A8B1FCD004DB587 /* FoodAppApp.swift */; };
 		44B30FCB2A8B1FCD004DB587 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FCA2A8B1FCD004DB587 /* ContentView.swift */; };
 		44B30FCD2A8B1FCE004DB587 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FCC2A8B1FCE004DB587 /* Assets.xcassets */; };
@@ -14,6 +20,19 @@
 		44B30FDA2A8B1FCE004DB587 /* FoodAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FD92A8B1FCE004DB587 /* FoodAppTests.swift */; };
 		44B30FE42A8B1FCE004DB587 /* FoodAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FE32A8B1FCE004DB587 /* FoodAppUITests.swift */; };
 		44B30FE62A8B1FCE004DB587 /* FoodAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FE52A8B1FCE004DB587 /* FoodAppUITestsLaunchTests.swift */; };
+		44B30FF32A8B20C0004DB587 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B30FF22A8B20C0004DB587 /* GetStartedView.swift */; };
+		44B30FF72A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF42A8B32FF004DB587 /* Poppins-Regular.ttf */; };
+		44B30FF82A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF42A8B32FF004DB587 /* Poppins-Regular.ttf */; };
+		44B30FF92A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF42A8B32FF004DB587 /* Poppins-Regular.ttf */; };
+		44B30FFA2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF52A8B32FF004DB587 /* Poppins-Bold.ttf */; };
+		44B30FFB2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF52A8B32FF004DB587 /* Poppins-Bold.ttf */; };
+		44B30FFC2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF52A8B32FF004DB587 /* Poppins-Bold.ttf */; };
+		44B30FFD2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF62A8B32FF004DB587 /* Poppins-SemiBold.ttf */; };
+		44B30FFE2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF62A8B32FF004DB587 /* Poppins-SemiBold.ttf */; };
+		44B30FFF2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44B30FF62A8B32FF004DB587 /* Poppins-SemiBold.ttf */; };
+		44B310022A8B394B004DB587 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B310012A8B394B004DB587 /* HomeView.swift */; };
+		44B310032A8B394B004DB587 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B310012A8B394B004DB587 /* HomeView.swift */; };
+		44B310042A8B394B004DB587 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B310012A8B394B004DB587 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +53,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4442BD952A8CAED400983C89 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		44863A7D2A8F27690002A4EA /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		44B30FC52A8B1FCD004DB587 /* FoodApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44B30FC82A8B1FCD004DB587 /* FoodAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAppApp.swift; sourceTree = "<group>"; };
 		44B30FCA2A8B1FCD004DB587 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +65,12 @@
 		44B30FDF2A8B1FCE004DB587 /* FoodAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44B30FE32A8B1FCE004DB587 /* FoodAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAppUITests.swift; sourceTree = "<group>"; };
 		44B30FE52A8B1FCE004DB587 /* FoodAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		44B30FF22A8B20C0004DB587 /* GetStartedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedView.swift; sourceTree = "<group>"; };
+		44B30FF42A8B32FF004DB587 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		44B30FF52A8B32FF004DB587 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		44B30FF62A8B32FF004DB587 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		44B310002A8B33C5004DB587 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		44B310012A8B394B004DB587 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +121,18 @@
 		44B30FC72A8B1FCD004DB587 /* FoodApp */ = {
 			isa = PBXGroup;
 			children = (
+				44B310002A8B33C5004DB587 /* Info.plist */,
+				4442BD952A8CAED400983C89 /* Poppins-Medium.ttf */,
+				44B30FF52A8B32FF004DB587 /* Poppins-Bold.ttf */,
+				44B30FF42A8B32FF004DB587 /* Poppins-Regular.ttf */,
+				44B30FF62A8B32FF004DB587 /* Poppins-SemiBold.ttf */,
 				44B30FC82A8B1FCD004DB587 /* FoodAppApp.swift */,
 				44B30FCA2A8B1FCD004DB587 /* ContentView.swift */,
+				44B30FF22A8B20C0004DB587 /* GetStartedView.swift */,
 				44B30FCC2A8B1FCE004DB587 /* Assets.xcassets */,
 				44B30FCE2A8B1FCE004DB587 /* Preview Content */,
+				44B310012A8B394B004DB587 /* HomeView.swift */,
+				44863A7D2A8F27690002A4EA /* DetailView.swift */,
 			);
 			path = FoodApp;
 			sourceTree = "<group>";
@@ -231,8 +266,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44B30FFD2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */,
+				44B30FF72A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */,
 				44B30FD02A8B1FCE004DB587 /* Preview Assets.xcassets in Resources */,
+				4442BD962A8CAED500983C89 /* Poppins-Medium.ttf in Resources */,
 				44B30FCD2A8B1FCE004DB587 /* Assets.xcassets in Resources */,
+				44B30FFA2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +279,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44B30FFE2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */,
+				4442BD972A8CAED500983C89 /* Poppins-Medium.ttf in Resources */,
+				44B30FF82A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */,
+				44B30FFB2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +290,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44B30FFF2A8B32FF004DB587 /* Poppins-SemiBold.ttf in Resources */,
+				4442BD982A8CAED500983C89 /* Poppins-Medium.ttf in Resources */,
+				44B30FF92A8B32FF004DB587 /* Poppins-Regular.ttf in Resources */,
+				44B30FFC2A8B32FF004DB587 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +305,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				44B30FCB2A8B1FCD004DB587 /* ContentView.swift in Sources */,
+				44B310022A8B394B004DB587 /* HomeView.swift in Sources */,
+				44B30FF32A8B20C0004DB587 /* GetStartedView.swift in Sources */,
+				44863A7E2A8F27690002A4EA /* DetailView.swift in Sources */,
 				44B30FC92A8B1FCD004DB587 /* FoodAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -267,6 +317,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				44B30FDA2A8B1FCE004DB587 /* FoodAppTests.swift in Sources */,
+				44863A7F2A8F27690002A4EA /* DetailView.swift in Sources */,
+				44B310032A8B394B004DB587 /* HomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +326,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44B310042A8B394B004DB587 /* HomeView.swift in Sources */,
+				44863A802A8F27690002A4EA /* DetailView.swift in Sources */,
 				44B30FE62A8B1FCE004DB587 /* FoodAppUITestsLaunchTests.swift in Sources */,
 				44B30FE42A8B1FCE004DB587 /* FoodAppUITests.swift in Sources */,
 			);
@@ -419,6 +473,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"FoodApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -447,6 +502,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"FoodApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
